@@ -1,6 +1,6 @@
 # Index of katas by its category/discipline
 
-<iframe src="https://codewars-activity-chart.glitch.me/chrisbanas" width="800" height="421"></iframe>
+[See the chart of my monthly history here](https://codewars-activity-chart.glitch.me/chrisbanas)
 
 ### These are the 135 code challenges I have completed:
 
